@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @siddhusudarsh
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach siddhusudarshan66@gmail.com
+### 👋 Hi there, I'm Siddhu Sudarshan (@siddhusudarsh)
+
+- 👀 I'm interested in web development and coding
+- 🌱 Currently learning Python, JavaScript, and React.js
+- 💡 Exploring UI design with Figma and building personal projects
+- 🤝 Looking to collaborate on beginner-friendly open source projects
+- 📫 Reach me at: siddhusudarshan66@gmail.com
 
 <!---
 siddhusudarsh/siddhusudarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
